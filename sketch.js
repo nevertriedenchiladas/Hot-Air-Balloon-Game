@@ -161,6 +161,7 @@ function reset() {
   barGroup.destroyEach()
   balloon.x = 100
   balloon.y = 300
+  score = 0
 }
 
 function scoreDisplay() {
